@@ -1,0 +1,26 @@
+body{
+    font-family: calibri;
+}
+
+.wrapper div{
+    min-height: 50px;
+    min-width: 200px;
+    margin: 20px;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.wrapper textarea{
+    min-height: 500px;
+    min-width: 100%;
+}
+
+.nav{
+    display: flex;
+}
+
+.wrapper iframe{
+    min-height: 500px;
+}
